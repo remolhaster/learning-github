@@ -1,4 +1,8 @@
 editted ingestion
 editting is done after learning branches 
 remol is working on ingestion
+
 master for learning conflict
+
+bugfixer2 for learning conflict
+conflict is fixed manually 
