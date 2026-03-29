@@ -1,4 +1,5 @@
 Iot data entered
 haster is working for iot_data_ingestion
 haster is again working for iot_data_ingestion
+conflict checking 
 conflict checking for master
